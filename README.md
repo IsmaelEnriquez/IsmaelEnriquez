@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ismael%20Enriquez&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Backend%20Software%20Engineer&descSize=18&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ismael%20Enriquez&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%26%20Educator&descSize=18&descAlignY=56" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Ismael+%F0%9F%91%8B;Always+learning+something+new;Currently+building+Commute+Bot+%F0%9F%9A%87;Learning+APIs%2C+SQL+%26+system+design;RPG+%26+JRPG+fan+%F0%9F%8E%AE" alt="Typing intro" />
